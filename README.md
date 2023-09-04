@@ -1,1 +1,2 @@
 # GSTIN-No.-Verifier-
+## This is a README file for an application that allows users to retrieve information based on a GSTN (Goods and Services Tax Number) using the API provided by "https://gstincheck.co.in/". This application is built using React.js, Chakra UI, Axios, and other relevant libraries. The API offers a unique key to fetch information based on a GSTN number through the endpoint "http://sheet.gstincheck.co.in/check/{api key}/{GSTIN Number}". Please note that the maximum number of API calls allowed is 20.
